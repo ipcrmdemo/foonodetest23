@@ -10,7 +10,7 @@ Modified original source by mjhea0: https://github.com/mjhea0/typescript-node-ap
 adsfadfsdfafd
 ## Build
 
-`npm run build`
+`npm run build`adfaf
 
 ## Start
 
